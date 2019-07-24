@@ -1,16 +1,16 @@
-name: Alpha
-version: 2.0.2
-description: "A clean, super minimal responsive template geared towards startups, app devs, and other dedicated folks working tirelessly to launch their products."
+name: GravCharles
+version: 1.0.0
+description: "Tema baseado em https://github.com/sommerregen/grav-theme-alpha"
 icon: ioxhost
 author:
-  name: Sommerregen
-  email: sommerregen@benjamin-regler.de
-  url: benjamin-regler.de
-homepage: https://github.com/sommerregen/grav-theme-alpha
+  name: Guionardo
+  email: guionardo@gmail.com
+  url: guionardofurlan.com.br
+homepage: https://github.com/guionardo/grav-theme-charles
 demo: http://themes.benjamin-regler.de/alpha/
 keywords: [theme, responsive, html5, css3, jquery, multipurpouse]
-docs: https://github.com/sommerregen/grav-theme-alpha/blob/master/README.md
-bugs: https://github.com/sommerregen/grav-theme-alpha/issues
+docs: https://github.com/sommerregen/grav-theme-charles/blob/master/README.md
+bugs: https://github.com/sommerregen/grav-theme-charles/issues
 license: MIT/GPL
 
 
