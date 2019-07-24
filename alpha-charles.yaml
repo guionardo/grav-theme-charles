@@ -2,8 +2,8 @@ enabled: true
 
 # Social links
 social_links:
-  - title: "Twitter"
-    icon: "twitter"
+  - title: "Endereço"
+    icon: "address"
     url: "#"
 
   - title: "Facebook"
@@ -12,7 +12,7 @@ social_links:
 
   - title: "Instagram"
     icon: "instagram"
-    url: "#"
+    url: "https://www.instagram.com/charleshoppe/"
 
   - title: "Github"
     icon: "github"
@@ -32,4 +32,4 @@ streams:
     theme:
       type: ReadOnlyStream
       paths:
-        - user/themes/alpha
+        - user/themes/alpha-charles

@@ -94,12 +94,6 @@
 
     {% block body_content %}
       <section id="main" class="container">
-        {% if page.title != 'Home' %}
-        <header>
-          <h2>{{ page.title }}</h2>
-          {% if page.header.subtitle %}<p>{{ page.header.subtitle }}</p>{% endif %}
-        </header>
-        {% endif %}
         <div class="box">
           {% if page.media.images %}
             {% set image = page.media.images | first %}
