@@ -2,7 +2,7 @@
 
 use Grav\Common\Theme;
 
-class Alpha extends Theme
+class AlphaCharles extends Theme
 {
   public static function getSubscribedEvents()
   {
